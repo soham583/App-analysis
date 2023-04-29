@@ -103,3 +103,4 @@ ios app:
 
 There are not many reviews to analyse but most of the users are not happy about it. There are lots of bugs like stream not showing, full screen not working and more. Team need to look into app deeply and solve the poblems.
 
+Tableau dashboard: http://surl.li/grujw
