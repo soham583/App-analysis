@@ -96,6 +96,7 @@ For ios we can't get lot of insight as they are only around 900. Positive review
 ## Conclusion
 
 Android app:
+
 From above analysis we can see that apart from some issues Android app is doing good. 70% users are happy with app. Users mostly liking free fire and bgmi streams. So loco can partner with more tournament organisers to stream competitions on their platform. Also the earning money while watching is also liked by users. There moght be some bugs related to claiming reward and using google/ amazon gift cards. So team should look into it.
 
 ios app:
