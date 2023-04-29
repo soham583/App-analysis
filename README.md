@@ -91,3 +91,14 @@ Negative reviews:
 <img width="700" alt="as5_22" src="https://user-images.githubusercontent.com/66030548/235307264-85ea7743-27a3-46c3-9f3e-52a967f96f45.png">
 
 For ios we can't get lot of insight as they are only around 900. Positive reviews are vey few. Negative are mostly about unable to see stream, full screen not working, device related, and money related.
+
+
+## Conclusion
+
+Android app:
+From above analysis we can see that apart from some issues Android app is doing good. 70% users are happy with app. Users mostly liking free fire and bgmi streams. So loco can partner with more tournament organisers to stream competitions on their platform. Also the earning money while watching is also liked by users. There moght be some bugs related to claiming reward and using google/ amazon gift cards. So team should look into it.
+
+ios app:
+
+There are not many reviews to analyse but most of the users are not happy about it. There are lots of bugs like stream not showing, full screen not working and more. Team need to look into app deeply and solve the poblems.
+
