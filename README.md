@@ -55,12 +55,15 @@ Now we need to dig into reviews and get idea of what eviews are saying. For this
 
 Let’s look fo Google play store reviews for Loco app.
 
+### Google play store reviews for Loco app.
+
 Positive reviews:
 
 <img width="400" alt="gp5_11" src="https://user-images.githubusercontent.com/66030548/235307192-27c7cb19-81cc-4f53-985a-f505eec88531.png">
 
 <img width="700" alt="gp5_12" src="https://user-images.githubusercontent.com/66030548/235307200-81d78e0f-dbde-4968-b833-e288620f27b5.png">
 
+From this we can see most of the positive reviews talk about 'earning money', 'pubg' and 'free fire' game streaming which are popula games amoung young people.
 
 Negative reviews:
 
@@ -69,8 +72,9 @@ Negative reviews:
 
 <img width="700" alt="gp5_22" src="https://user-images.githubusercontent.com/66030548/235307229-9290cad8-3fda-4bc9-9e93-e9e0338abdc2.png">
 
+From this we can see most negative reviews are about redeeming 'rewards' or using 'gift cards'. Some are about login issues.
 
-App store reviews for Loco app:
+### App store reviews for Loco app:
 
 Positive reviews:
 
@@ -86,3 +90,4 @@ Negative reviews:
 
 <img width="700" alt="as5_22" src="https://user-images.githubusercontent.com/66030548/235307264-85ea7743-27a3-46c3-9f3e-52a967f96f45.png">
 
+For ios we can't get lot of insight as they are only around 900. Positive reviews are vey few. Negative are mostly about unable to see stream, full screen not working, device related, and money related.
